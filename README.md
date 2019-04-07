@@ -1,2 +1,2 @@
 # mirror_dnn
-base on pytorch(tensor) framework of dnn
+A toy framework of deep neural networks based on PyTorch.Tensor. 
